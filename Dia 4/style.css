@@ -11,14 +11,14 @@ form {
     padding: 20px;
     background-color: #C1AE9F; 
     border-radius: 20px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /*efectos de sombra alrededor del marco de un elemento*/
 }
 
 h1 {
     text-align: center;
     color: #89937C;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 2px; /*establece el comportamiento del espaciado horizontal entre caracteres de texto*/
     margin-bottom: 20px;
 }
 
@@ -33,7 +33,7 @@ input[type="text"],
 input[type="email"],
 select,
 textarea {
-    width: calc(50% - 10px); /* Ancho total */
+    width: 50%; /* Ancho total */
     padding: 8px;
     margin-bottom: 10px;
     border: 2px solid #69385C;
