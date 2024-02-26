@@ -1,0 +1,12 @@
+body {
+    position: relative;
+    background-color: white;
+    width: 1920px;
+    height: 1080px;
+}
+.fondo{
+    position: absolute;
+    background-color: black;
+    width: 900px;
+    height: 200px;
+}   
