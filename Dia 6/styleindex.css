@@ -4,9 +4,27 @@ body {
     width: 1920px;
     height: 1080px;
 }
-.fondo{
+.BarraNegra{
     position: absolute;
     background-color: black;
-    width: 900px;
+    width: 50px;
     height: 200px;
-}   
+} 
+.opcion1{
+    width: 230px;
+    height: 41px;
+    margin-left: 695px;
+    margin-right: 42px;
+    margin-top: 40px;
+    margin-bottom: 719px;
+}
+.opcion2{
+    width: 230px;
+    height: 41px;
+    margin-right: 20px;
+    margin-top: 40px;
+    margin-bottom: 719px;
+}
+.parteArriba{
+    position:relative;
+}
