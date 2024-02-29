@@ -19,37 +19,54 @@
 }
 .Logo{
     margin-right: 43px;
-    position: relative;
+    position: absolute;
     width: 196px;
     height: 44px;
 }
 .ParteDerecha{
-    margin-left: 461px;
+    left: 461px;
     position: absolute;
     width: 230px;
     height: 41px;
 }
 .ParteDerecha2{
-    margin-left: 733px;
+    left: 733px;
     position: absolute;
     width: 132px;
     height: 41px;
 }
 .Lupa{
-    margin-left: 884.7px;
+    left: 884.7px;
     position: absolute;
     width: 27px;
     height: 27.01px;
 }
 .Carrito{
-    margin-left: 984.67px;
+    left: 984.67px;
     position: absolute;
     width: 33px;
     height: 31.5px; 
 }
 .Tarjeta{
+    position: absolute;
+    top: 35px;
+    left: 127px;
+}
+.FlechaArriba{
     position: relative;
-
-    margin-top: 35px;
-    margin-left: 127px;
+}
+.FlechaAbajo{
+    position: relative;
+}
+.Cantidad{
+    position: relative;
+}
+.Numero4{
+    position: relative;
+}
+.Numero5{
+    position: relative;
+}
+.Numero6{
+    position: relative;
 }
