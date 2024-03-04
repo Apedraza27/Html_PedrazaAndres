@@ -1,0 +1,16 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5vi;
+    list-style-type: none;
+    background-color: aquamarine;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
