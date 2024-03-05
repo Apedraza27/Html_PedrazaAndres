@@ -6,6 +6,7 @@ nav ul {
     display: flex;
     justify-content: space-between;
     font-size: 1.5vi;
+    padding: 2vw;
     list-style-type: none;
     background-color: aquamarine;
 }
