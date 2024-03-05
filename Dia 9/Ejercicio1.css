@@ -9,6 +9,7 @@ nav ul {
     padding: 2vw;
     list-style-type: none;
     background-color: aquamarine;
+    border: 2.5vi double #000;
 }
 
 a{

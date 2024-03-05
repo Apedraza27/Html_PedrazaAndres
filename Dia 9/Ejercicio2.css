@@ -17,6 +17,10 @@ body{
     box-sizing: border-box;
     margin-bottom: 2vw;
 }
+h1{
+    font-size: 3vi;
+    color: red;
+}
 h2{
     margin: 0;
 }
