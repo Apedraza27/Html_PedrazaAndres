@@ -1,4 +1,24 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
-    display: flexbox;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+  
+.Secciones{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 2vw;
+    box-sizing: border-box;
+}
+  
+.Articulo{
+    flex: 0 0 calc(33.33% - 2vw);
+    background-color:aquamarine;
+    padding: 2vw;
+    box-sizing: border-box;
+    margin-bottom: 2vw;
+}
+  
+h2{
+    margin: 0;
 }
