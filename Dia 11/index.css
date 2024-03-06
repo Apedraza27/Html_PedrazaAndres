@@ -1,0 +1,31 @@
+.nube{
+    position: fixed;
+    bottom: 75%;
+    width:250px; 
+    height:250px;
+    right: 2000px;
+    top: 0;
+
+    animation-name:simple;
+    animation-duration:20s;
+    animation-delay:8s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-direction: normal;
+    animation-name: nube;
+    z-index: 2;
+}
+@keyframes nube{
+    0%{
+        opacity: 100%;
+        right: 0;
+    }
+    50%{
+        opacity: 100%;
+        right:800px;
+    }
+    100%{
+        opacity: 100%;
+        right: 2000px;
+    }
+}
